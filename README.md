@@ -1,4 +1,15 @@
 # [Confitura 2015](http://tech.viacom.com/warsawsdc/confitura2015/)
+
+## The real question is...
+
+Why on Earth would you invert binary tree? This of course depends on the
+usage of the tree but I think that in most cases the tree and it's inverted
+self are equivalent and inverting is kind of wasting time and resources.
+
+And wasting time and resources saddens the monkey
+
+![Sad Resource Monkey](https://opinionatedmale.files.wordpress.com/2013/09/monkey-sad-opinionatedmale-com.jpg)
+
 ## Invert a Binary Tree
 
 Invert a binary tree.
